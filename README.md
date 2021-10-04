@@ -7,7 +7,7 @@ arise from tradition todo list applications.
 As we build out this project, our goal will remain on how we can look after users and provide a 
 wholesome and helpful experience as they become and stay organized.
 
-##Live Streaming
+## Live Streaming
 
 This entire application will be built live on [Adam's Twitch channel](https://twitch.tv/adammc331). 
 All streams will be recorded and archived on [YouTube](https://youtube.com/AdamMcNeilly) as well.
