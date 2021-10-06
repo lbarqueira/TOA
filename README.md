@@ -15,5 +15,9 @@ All streams will be recorded and archived on [YouTube](https://youtube.com/AdamM
 
 ## Organization
 
-All work on this project should be recorded in a relevant [issue](), and tied to a corresponding 
-GitHub [project]().
+All work on this project should be recorded in a relevant [issue](https://github.com/lbarqueira/TOA/issues), and tied to a corresponding 
+GitHub [project](https://github.com/lbarqueira/TOA/projects).
+
+## Stream History
+
+[Stream History](https://github.com/AdamMc331/TOA/blob/development/StreamHistory.md#stream-history)
